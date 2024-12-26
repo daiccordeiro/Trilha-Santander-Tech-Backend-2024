@@ -9,6 +9,7 @@ Passo-a-passo configurações das aulas:
 - Extensions: ESLint | Prettier - Code formatter | EditorConfig for VsCode
 - Executar: `npx eslint --init`
 - Terminal: `npm i -D estint-config-standard-with-typescript @typescript-eslint/eslint-plugin eslint eslint-plugin-import eslint-plugin-n eslint-plugin-promise typescript`
+(Remover as versões na hora de rodar)
 
 ##AULA 03
 ##AULA 04
